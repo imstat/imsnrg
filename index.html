@@ -1,0 +1,38 @@
+---
+layout: default
+title: Welcome New Researchers
+permalink: /
+---
+
+<p>
+Please feel free to explore around the home of the IMS New Researchers Group. Right now we're under construction but we already have a lot of good resources. If you want to contribute you can leave a comment on the relevant page or you can send an email to <a href="mailto:sussman@bu.edu">sussman@bu.edu</a>.
+</p>
+
+
+
+
+<h1 class="page-heading">Blog Posts</h1> 
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p> {{post.summary}}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe" style="font-size: 75%">subscribe to the IMS New Researchers Blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+<h2 class="page-heading"><a href="{{site.baseurl}}/recent_publications.html">Recent ArXiv Submissions</a></h2>
+
+
+<script type="text/javascript">
+{% include arxiv_feed_home.js %}
+</script>
+
+<h3> <a href="{{site.baseurl}}/recent_publications.html">More recent arXiv submissions</a></h3>

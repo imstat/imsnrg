@@ -1,0 +1,21 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+<ul>
+{% for item in include.nav %}
+    <li>
+        <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">
+            {% if item.url == navurl %}
+                <b>{{ item.text }}</b>
+                <br>
+            {% else %}
+                {{ item.text }}
+                <br>
+            {% endif %}
+        </a>
+    </li>
+    {% if item.subitems and navurl contains item.url %}
+    <div class="guide-submenu">
+            {% include guide_nav.html nav=item.subitems %}
+    </div>
+    {% endif %}
+    {% endfor %}
+</ul>

@@ -1,0 +1,12 @@
+- text: Blog
+  url: /blog_posts.html
+- text: Survival Guide
+  url: /guide/
+- text: NRC
+  url: /conferences/nrc.html
+- text: ArXiv Feed
+  url: /recent_publications.html
+- text: Forum
+  url: /forum/
+- text: About
+  url: /about.html

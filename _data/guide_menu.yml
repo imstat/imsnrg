@@ -1,0 +1,43 @@
+- text: Career
+  url: /guide/career/
+  subitems:
+    - text: Undergraduate Students
+      url: /guide/career/undergraduate.html
+    - text: Graduate Students
+      url: /guide/career/graduate.html
+    - text: Postdocs
+      url: /guide/career/postdocs.html
+    - text: Professor
+      url: /guide/career/professor.html
+- text: Teaching
+  url: /guide/teaching/
+  subitems:
+    - text: Resources
+      url: /guide/teaching/resources.html
+- text: Research
+  url: /guide/research/
+  subitems:
+  - text: Writing Guide
+    url: /guide/research/writing.html
+  - text: Revisions
+    url: /guide/research/revisions.html
+  - text: Grants
+    url: /guide/research/grants.html
+  - text: Finding Funding
+    url: /guide/research/funding.html
+- text: Conferences
+  url: /guide/conferences/
+  subitems:
+    - text: Conferences List
+      url: /guide/conferences/conference_list.html
+- text: Jobs
+  url: /guide/jobs/
+  subitems:
+    - text: Finding a Job
+      url: /guide/jobs/finding_a_job.html
+    - text: Academia
+      url: /guide/jobs/academia.html
+    - text: Industry
+      url: /guide/jobs/industry.html
+    - text: Government
+      url: /guide/jobs/government.html

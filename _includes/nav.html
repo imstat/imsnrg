@@ -1,0 +1,26 @@
+{% assign navurl = page.url | remove: 'index.html' %}
+{% for item in include.nav %}
+    <!-- <li> -->
+        <a class="page-link" href="{{ item.url | prepend: site.baseurl }}">
+            {% if navurl contains item.url %}
+                <b>{{ item.text }}</b>
+            {% else %}
+                {{ item.text }}
+            {% endif %}
+            {% if item.subitems and navurl contains item.url %}
+                <div class="site-subnav-mobile" style="font-size: 75%">
+                    {% include nav.html nav=item.subitems %}
+                    <br>
+                    <br>
+                </div>
+            {% endif %}
+        </a>
+    <!-- </li> -->
+{% endfor %}
+{% for item in include.nav %}
+{% if item.subitems and navurl contains item.url %}
+    <span class="site-subnav-desktop" style="font-size: 75%">
+        {% include nav.html nav=item.subitems %}
+    </span>
+{% endif %}
+{% endfor %}

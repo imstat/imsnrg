@@ -1,0 +1,18 @@
+---
+layout: guide
+title: Revisions and Refereeing
+permalink: /guide/research/revisions.html
+---
+
+
+After what may seem an eternity you will receive referees’ comments on your article. (By the way, it is fair to write the editor a polite letter asking about your article if more than 6–8 months have passed.) The comments come with a letter from the editor indicating what the journal will do. They may accept your article as is, reject it outright or ask for revisions before they make a final decision (only the last two really happen.) A rejection is almost certainly final. Usually you will have received constructive criticism from the referees and the associate editor. Occasionally the comments will be rather abusive. In any case, if you still think the article is worth pursuing, try to understand the critical comments of the referees. If possible, correct the problems they mention, or change the wording so that nobody could ever again misunderstand your work the way they did. Then send the article to another journal. Don’t get discouraged too easily. They have not rejected you, just your article. The vindictiveness that appears to be aimed at you is probably sparked by impatience with having to review anything at all. If you don’t feel like rewriting it now, maybe you will in a few weeks.
+
+Referees’ reports are supposed to spell out the changes they think are necessary in order to make the article publishable. They may also list a number of discretionary changes that they would like to see. Generally the best thing is to just make the changes that they have told you to make, some or all of the discretionary changes, and no other changes. In your reply explain how you have met the requests, or why you did not meet them.
+
+Resist the temptation to introduce new material into the article after it has been reviewed. This can slow down the review, so it is better to save it for the next article. (Some judgment is necessary on this point.)
+
+One reason for not making a change is that a referee might not have understood what you are doing; the suggested change might introduce an error. Though the referee may know less about the subject than you, he or she is likely to know more about it than most of the readers will. If the referee has misunderstood a point, then try to figure out exactly what was confusing. You should rewrite part of the article in order to clear it up. Then, in your letter, explain the misunderstanding and how you have changed your article so that the point is more clear. Needless to say, this has to be done well or your article can be delayed further. Absolutely, do not insult the referee in your rebuttal.
+
+Sometimes the referees disagree with each other on what you should do. In that case you get a choice. Mention to the losing referee that you had instructions from another referee. In the letter to the associate editor, explain your reasons for the choice you made. Sometimes the referees’ comments are vague. If they have not spelled out clearly what they want, you should spell out clearly what you did and how it meets their requirements. Vague requests can be met in many more ways than precise ones can, so you get some flexibility.
+
+A common request is to shorten the article. Referees will often suggest what to take out. Proofs can be shortened by describing sequences of steps instead of spelling them out; descriptions of simulations can be cut back to the bare bones necessary for somebody else to replicate them. Make sure you keep the main results!

@@ -1,0 +1,4 @@
+AuthType Basic  
+AuthName "restricted area"  
+AuthUserFile /other/www/people/sussman/ims_nrg/.htpasswd  
+require valid-user
