@@ -11,7 +11,7 @@ email: ims@imstat.org
 description: > # this means to ignore newlines until "baseurl:"
   The IMS New Researchers Group works to foster new researchers in statistics by hosting
   a conference every year before JSM and maintaining this website with useful resources.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/imsnrg" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 
 # Build settings
