@@ -3,6 +3,7 @@ title: Welcome New Researchers
 layout: post
 summary: Hey there young statisticians, come look around our new site.
 author: Daniel Sussman
+comments: true
 ---
 
  
