@@ -1,46 +1,136 @@
 ---
 layout: page
-title: New Researchers Conference
+title: 20th Meeting of New Researchers in <br> Statistics and Probability
 permalink: /conferences/nrc.html
+comments: true
 ---
 
-## 19th Meeting of New Researchers in Statistics and Probability
 
-The 19th Meeting of New Researchers in Statistics and Probability will be happening in Baltimore this year during its usual time right before JSM.  Please check back for more details and information about applying to attend the meeting.
 
-__Host__: Johns Hopkins University <br>
-__Location__: Baltimore, MD <br>
-__Dates__: July 27-29, 2016 (TBD) <br>
-__Organizers__:  <br>
+## Conference Details
 
-* Elizabeth Ogburn, Department of Biostatistics, Bloomberg School of Public Health
-* Vince Lyzinski, Department of Applied Math and Statistics, Whiting School of Engineering
 
-__Funding__: The meeting is graciously supported by the National Science Foundation (DMS-1623541). 
+The 20th Meeting of New Researchers in Statistics and Probability will be happening in Burnaby, British Columbia, during its usual time right before JSM.
+The purpose of the conference is to promote interaction and networking among new researchers in statistics and probability and to provide them with valuable insights from leaders in the field.
 
-### General Information
 
-The purpose of the conference is to promote interaction and networking among new researchers in statistics and probability. Anyone who has received a Ph.D. on or after 2012, or expects to receive a Ph.D. by the end of 2017, is eligible to apply.
+| --- | --- |
+| __Host__ | Simon Fraser University (SFU) |
+|  | Burnaby, BC, Canada |
+| __Location__ | Presentation Studio (ASB 10900) of SFU’s Big Data Hub |
+| __Dates__ | July 26-28, 2018 |
+| __Organizers__ |  |
 
-## Past Meetings
+* Liangliang Wang and Yunlong Nie
+  * Department of Statistics and Actuarial Science, Simon Fraser University
 
-Past meetings have been funded by the National Science Foundation, the National Institutes of Health, the Office of Naval Research, and Google.
 
-* __18th Meeting__ (2016) [University of Wisconsin, Madison](http://www.stat.wisc.edu/imsnrc18/)
-* __17th Meeting__ (2015) [University of Washington, Seattle](http://depts.washington.edu/imsnrc17/)
-* __16th Meeting__ (2014) [Harvard University, Cambridge](http://www.stat.harvard.edu/NRC2014/about.html)
-* __15th Meeting__ (2013) [Centre de recherches mathématiques, Montréal](http://www.math.mcgill.ca/nrc2013/index.html)
-* __14th Meeting__ (2012) [University of California, San Diego](http://math.ucsd.edu/~nrc2012/index.html)
-* __13th Meeting__ (2010) [University of British Columbia, Vancouver](http://www.stat.tamu.edu/~sinha/nrc2010-ims.html)
-* __12th Meeting__ (2009) Johns Hopkins University, Baltimore
-* __11th Meeting__ (2008) University of Colorado, Boulder
-* __10th Meeting__ (2007) [University of Utah, Salt Lake City](http://people.bu.edu/gupta/NRC/)
-* __9th Meeting__ (2006) University of Washington, Seattle
-* __8th Meeting__ (2005) [University of Minnesota, Minneapolis](http://pages.pomona.edu/~jsh04747/NRC/NRC.htm)
-* __7th Meeting__ (2004) [York University, Toronto](http://www.math.yorku.ca/StatsSection/NRC/)
-* __6th Meeting__ (2003) [University of California, Davis](http://www-rohan.sdsu.edu/~ralevine/NRC/)
-* __5th Meeting__ (2001) Georgia Institute of Technology, Atlanta
-* __4th Meeting__ (2000) [Johns Hopkins University, Baltimore](http://www-rohan.sdsu.edu/~ralevine/NRC/99.html)
-* __3rd Meeting__ (1997) [University of Wyoming, Laramie](http://www-rohan.sdsu.edu/~ralevine/NRC/97.html)
-* __2nd Meeting__ (1995) [Queen's University, Kingston, Ontario](http://www-rohan.sdsu.edu/~ralevine/NRC/95.html)
-* __1st Meeting__ (1993) [University of California, Berkeley](http://www-rohan.sdsu.edu/~ralevine/NRC/93.html)
+__Off-site Organizers__
+
+* Alexander Volfovsky
+  * Department of Statistical Science, Duke University
+* Elizabeth Ogburn
+  * Department of Biostatistics, Bloomberg School of Public Health
+* Daniel Sussman
+  * Department of Mathematics and Statistics, Boston University
+
+__Funding__ The meeting is graciously supported by the
+  
+* <img src="https://www.nsfgrfp.org/images/nsf-logo.png" alt="NSF" style="height: 80px;"/> National Science Foundation,
+* &nbsp;&nbsp;&nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/PIMS_logo.png" alt="PIMS" style="height: 65px;"/> &nbsp;&nbsp; Pacific Institute for the Mathematical Sciences, and
+* &nbsp;&nbsp; <img src="https://ssc.ca/sites/ssc/files/data/Members/public/about/SARGC/canssi_logo_web.png" alt="CANSS" style="height: 65px;"/> &nbsp;  Canadian Statistical Sciences Institute.
+
+
+
+## Invited Speakers
+
+
+* [Alison Etheridge](http://www.stats.ox.ac.uk/~etheridg/), Oxford University 
+  * IMS President
+* [Xiao-Li Meng](https://statistics.fas.harvard.edu/people/xiao-li-meng), Harvard University, 
+  * IMS President Elect
+* [Marc Suchard](https://www.biostat.ucla.edu/people/suchard), University of California, Los Angeles
+* [Hongyu Zhao](https://publichealth.yale.edu/people/hongyu_zhao.profile), Yale University
+* [Jennifer Hill](https://steinhardt.nyu.edu/faculty/Jennifer_L_Hill), New York University
+* [Philip Ernst](http://www.stat.rice.edu/~pe6/), Rice University (Tweedie Award Winner)
+
+## Application Information
+
+
+<div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_application.html">Apply Now</a></div>
+
+
+#### Eligibility
+
+Applications are accepted from anyone who: 
+
+1. received a Ph.D. on or after 2014; or 
+2. expects to receive a Ph.D. by the end of 2019.
+
+The number of participants is limited. The deadline for receipt of applications is March 24, 2018. By March 31st, applicants will be notified of whether they have been selected to attend. Women and minorities are encouraged to apply. 
+
+
+#### Funding 
+
+The selected applicants will be asked to pay a small ($100) registration fee to confirm their participation (this price is subject to small changes). However, contingent on the availability of funds, support to defray travel and housing costs will be offered, though we invite participants to seek partial funding of their own.
+
+#### Application Details
+
+
+To apply, fill out the [form linked above]({{ site.baseurl }}/conferences/nrc_application.html).
+ <!-- or alternatively, submit a Letter of Interest (PDF only) and a Curriculum Vitae (PDF only) via email. -->
+<!-- In your letter of interest briefly explain your motivation for participating in this meeting, as well as clearly stating:  -->
+You will need to provide the following information:
+
+* Your full name
+* Your institution 
+* Your email address
+* The title of your position
+* The year you earned/will earn a PhD
+* Your main research areas (be specific)
+* Your reasons for attending.
+* Title of your presentation
+* Abstract for your presentation 
+  * 250 words maximum
+
+<!-- Email both files together please to  [ims.nrc2017@gmail.com](mailto:ims.nrc2017@gmail.com) with subject line "NRC 2017 application". Thank you. -->
+
+
+## Logistics
+
+### Hotel
+
+TBA
+
+### Maps and Directions
+
+The conference will be held in the Presentation Studio (ASB 10900) of SFU’s Big Data Hub. 
+This is part of [KEY, SFU's Big Data Initiative](http://www.sfu.ca/key/contact-us). The address is
+
+> Applied Science Building, Room 10905 <br>
+> Simon Fraser University <br>
+> 8888 University Drive <br>
+> Burnaby, B.C. <br>
+> Canada V5A 1S6
+
+
+<iframe allowfullscreen="" frameborder="0" height="400" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83294.21332481528!2d-122.9842963379709!3d49.277455179330794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548679bf1767cc6b%3A0x16e37c430148082b!2sApplied+Sciences+Bldg%2C+Burnaby%2C+BC+V5A!5e0!3m2!1sen!2sca!4v1488575648002" width="400"></iframe>
+
+
+
+<!-- If you have been accepted to participate in 2017's NRC, please submit your title, abstract, and flash talk slide using the link below.
+
+<div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_submission.html">Submit Now</a></div>
+
+__Deadline: July 24, 2017__ <br>
+If you fail to meet the deadline you risk being left out of the program. -->
+
+
+
+
+
+## Information on Past Meetings
+
+[Application Instructions for Recent Meetings]({{ site.baseurl }}/conferences/nrc_application_info.html)
+
+[Websites for Past Meetings]({{ site.baseurl }}/conferences/nrc_past_meetings.html)

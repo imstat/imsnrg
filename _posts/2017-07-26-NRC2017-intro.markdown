@@ -1,0 +1,10 @@
+---
+title: NRC 2017 Starts Tomorrow
+layout: post
+summary: Johns Hopkins University is graciously hosting NRC 2017 starting tomorrow.
+author: Daniel Sussman
+comments: true
+---
+
+ 
+The 19th Meeting of New Researchers in Statistics and Probability starts July 27, 2017 and is being hosted by Johns Hopkins University. This year we have over 50 participants from around the world presenting on a wide range of topics. We are also very excited to have invited talks from Rina Foygel Barber, Nilanjan Chatterjee, Alison Etheridge, Ed George , Carey E. Priebe, Jon A. Wellner as well panel discussions on Publishing, Funding, Teaching and Mentoring, Collaborations, and the Future of Statistics. For a detailed schedule and program see our [dedicated conference page]({{ site.baseurl }}/conferences/nrc.html).

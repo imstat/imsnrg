@@ -229,4 +229,18 @@ text-decoration: none;
 font-style: italic;
 }
 
+.applybutton{
 
+background:    $brand-color;
+background:    -webkit-linear-gradient($brand-color, $darker-brand-color );
+background:    linear-gradient($brand-color, $darker-brand-color );
+border-radius: 5px;
+>a{
+color:         #fff;
+}
+display:       inline-block;
+padding:       8px 20px;
+font:          normal 700 32px/1 "Calibri", sans-serif;
+text-align:    center;
+text-shadow:   1px 1px 0 #000;
+}

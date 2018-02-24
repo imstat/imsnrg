@@ -1,9 +1,9 @@
-ftp_host: 'math.bu.edu'
-ftp_dir: '/other/www/people/sussman/ims_nrg'
-ftp_passive: false
+ftp_host: 'groups.imstat.org'
+ftp_dir: ''
+ftp_passive: true
 
 # optional
 ftp_port: 21                  # default 21
-ftp_username: 'sussman'     # default read from stdin
-# ftp_password: 'your_ftp_pass' # default read from stdin
-ftp_secure: false              # default false
+ftp_username: 'nrg'     # default read from stdin
+ftp_password: 'Nr73qrYa0' # default read from stdin
+ftp_secure: true              # default false

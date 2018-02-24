@@ -18,6 +18,8 @@ $text-color:       #111;
 $background-color: #fdfdfd;
 // $brand-color:      #2a7ae2;
 $brand-color:      lighten(#7e133e, 10%);
+$darker-brand-color: darken($brand-color,30%);
+$lighter-brand-color: lighten($brand-color,20%);
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

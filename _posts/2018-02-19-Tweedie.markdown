@@ -1,0 +1,11 @@
+---
+title: 2018 Tweedie Award Announcement
+layout: post
+summary: The 2018 Tweedie Award from the IMS will be awarded to Philip Ernst.
+author: Daniel Sussman
+---
+
+ 
+The New Researchers Group is pleased to congratulate [Professor Philip Ernst](http://www.stat.rice.edu/~pe6/) from the Department of Statistics at Rice University as the winner of the [2018 Tweedie New Researcher Award](http://www.imstat.org/awards/tweedie.html) from the IMS. Professor Ernst will be presented the award at the [2018 New Researchers Conference]({{ site.baseurl }}/conferences/nrc.html) at Simon Fraser University in Burnaby, Canada.
+He will be one of many exciting speakers at the conference where he will present his research entitled _Title: Yule's "Nonsense Correlation" Solved!_.
+His research interests include applied probability, asymptotic statistics, exact distribution theory, probabilistic coupling, quantitative finance, queueing systems, optimal stopping, stochastic control, time series analysis. 

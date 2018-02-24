@@ -1,0 +1,11 @@
+---
+title: Congratulations to Rina Foygel Barber
+layout: post
+summary: The Tweedie Award from the IMS is presented to Rina Foygel Barber.
+author: Daniel Sussman
+---
+
+ 
+The New Researchers Group is pleased to congratulate Professor Rina Foygel Barber from the Department of Statistics at University of Chicago as the winner of the [Tweedie New Researcher Award](http://www.imstat.org/awards/tweedie.html) from the IMS. This morning Jon Wellner, the current president of the IMS, presented Rina with a plaque to commemorate the award. This presentation was followed by Rina's [great talk]({{ site.baseurl }}/conferences/nrc_invited_abstracts.html#rina-foygel-barber-tweedie-award-winner) on her "knockoff" strategy for false discovery estimation, model selection, and confidence intervals.
+
+<img src="{{ site.baseurl }}/image/Tweedie2017Barber.jpg" alt="Rina Foygel Barber is awarded the Tweedie Award by Jon Wellner.">
