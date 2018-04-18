@@ -64,10 +64,10 @@ __Funding__ The meeting is graciously supported by the
 
 Applications are accepted from anyone who: 
 
-1. received a Ph.D. on or after 2014; or 
-2. expects to receive a Ph.D. by the end of 2019.
+1. received a Ph.D. on or after 2013; or 
+2. expects to receive a Ph.D. by the end of 2018.
 
-The number of participants is limited. The deadline for receipt of applications is March 24, 2018. By March 31st, applicants will be notified of whether they have been selected to attend. Women and minorities are encouraged to apply. 
+The number of participants is limited. The deadline for receipt of applications is March 31, 2018. By April 5th, applicants will be notified of whether they have been selected to attend. Women and minorities are encouraged to apply. 
 
 
 #### Funding 
@@ -93,14 +93,14 @@ You will need to provide the following information:
 * Abstract for your presentation 
   * 250 words maximum
 
-<!-- Email both files together please to  [ims.nrc2017@gmail.com](mailto:ims.nrc2017@gmail.com) with subject line "NRC 2017 application". Thank you. -->
+<!-- Email both files together please to  [imsnrc2018@gmail.com](mailto:	imsnrc2018@gmail.com) with subject line "NRC 2018 application". Thank you. -->
 
 
 ## Logistics
 
 ### Hotel
 
-TBA
+Conference participants will be staying at the Simon Hotel or the townhouse units of the [SFU Guest Accommodations](http://www.sfu.ca/stayhere.html). Rooms have been  reserved and will be paid as a group for all the participants for three days (Arrival date: July 25, 2018; Departure date: July 28, 2018). If you want to arrive earlier or stay later, you can submit an individual reservation request here: [SFU Guest Accommodations](http://www.sfu.ca/stayhere/reservation.html) by selecting "individual guest booking" and clicking on "request a booking." You can then fill out the page and will need to submit a credit card that will be stored in a secure online vault until the day before your arrival. It would be helpful for the front desk of SFU Guest Accommodations if you indicate in the comment section that you are part of the 20th IMS New Researchers Conference, but are booking a personal stay on either end of the conference. If you are by yourselves, it is recommended that you book a Private Residence Room on the individual traveler floor, and can then room switch when the booking with the conference begins to your townhouse room. 
 
 ### Maps and Directions
 
