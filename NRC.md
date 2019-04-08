@@ -58,8 +58,9 @@ __Funding__ The meeting is graciously supported by the
 
 ## Application Information
 
-
+<!--
 <div class="applybutton"><a href="{{ site.baseurl }}/conferences/nrc_application.html">Apply Now</a></div>
+-->
 
 
 #### Eligibility
@@ -69,7 +70,7 @@ Applications are accepted from anyone who:
 1. received a Ph.D. in or after 2014; or 
 2. expects to receive a Ph.D. by the end of 2019.
 
-The number of participants is limited. __The deadline for receipt of applications is March 29, 2019.__ By April 5th, applicants will be notified of whether they have been selected to attend. Women and minorities are especially encouraged to apply. 
+The number of participants is limited. __The deadline for receipt of applications is March 29, 2019.__ By April 15th, applicants will be notified of whether they have been selected to attend. Women and minorities are especially encouraged to apply. 
 
 
 #### Funding 
